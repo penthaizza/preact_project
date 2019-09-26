@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fe248c9e-ff09-48a5-8003-99580a421c9e/deploy-status)](https://app.netlify.com/sites/objective-aryabhata-5db27e/deploys)
+[![CodeFactor](https://www.codefactor.io/repository/github/penthaizza/preact_project/badge)](https://www.codefactor.io/repository/github/penthaizza/preact_project)
 # my-project
 
 ## CLI Commands
